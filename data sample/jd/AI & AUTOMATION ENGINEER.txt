@@ -1,0 +1,50 @@
+﻿AI & AUTOMATION ENGINEER (PYTHON / AZURE / N8N)
+
+Location: Amman, Jordan
+Shift: U.S. Business Hours (3:30 PM – 12:30 AM Amman Time) - Adjusted in winter for daylight saving time.
+Company: Premier Business Solutions (PBS) — in partnership with Premier Lending, USA
+
+About Premier Business Solutions (PBS)
+Premier Business Solutions (PBS) is a leading outsourcing and consulting firm supporting U.S.-based mortgage, financial, and real estate companies. Founded in 2015 with Premier Lending, Inc., PBS provides cost-effective, high-quality operational and technical talent to help businesses scale efficiently. As part of our next growth phase, we’re building an AI & Automation Hub in Amman to support U.S. operations through intelligent systems and next-generation workflows.
+
+About Premier Lending, Inc.
+Premier Lending is a top-performing U.S. mortgage lender building an AI-powered operations and marketing ecosystem. Our AI & Automation team in Amman designs and runs systems that transform how we recruit, market, and serve clients—combining human expertise with intelligent automation.
+
+Position Summary
+We are seeking an AI & Automation Engineer to design, build, and maintain intelligent workflows that automate core business processes across marketing, recruiting, operations, and client experience. This is a hands-on role for someone who can code in Python, build integrations using n8n or Azure Logic Apps, and leverage Azure OpenAI and Copilot Studio to create smart, scalable solutions. You’ll work directly with U.S. leadership and technical teams to bring real automation and AI applications to life.
+
+Key Responsibilities
+- Develop and deploy AI automation workflows using Azure OpenAI, n8n, or LangChain.
+- Integrate systems (e.g., GoHighLevel/GHL, Encompass, Microsoft 365/Teams/Outlook, Power BI, CRMs) via REST APIs and webhooks.
+- Build automation toolkits for data processing, task completion, and document recognition (OCR/QR).
+- Monitor performance, log activity, implement alerts, and ensure reliability (uptime ≥ 98%).
+- Collaborate with the Data Scientist to embed predictive models into workflows.
+- Document architectures, prompts, API connections, and logic maps in Notion or Trainual.
+- Research, test, and recommend new AI/automation tools to continuously improve efficiency.
+
+Qualifications & Requirements
+- 2+ years as an Automation Engineer, AI Engineer, or Python Developer.
+- Proficiency in Python (FastAPI) and RESTful API integration; strong JSON schema handling.
+- Experience with Azure OpenAI, Microsoft Copilot Studio, Azure Functions or Logic Apps.
+- Hands-on with n8n, Power Automate, or similar workflow tools.
+- Knowledge of SQL and experience integrating with Power BI datasets.
+- Familiarity with CRM/LOS systems (e.g., GoHighLevel, Encompass) preferred.
+- Strong problem-solving, documentation, and communication skills; fluent English.
+- Available to work U.S. business hours (4:30 PM – 1:30 AM Amman Time).
+
+Compensation & Benefits
+- Full-time, based in Amman, Jordan.
+- Competitive local salary + milestone-based performance bonuses.
+- Clear growth path to Automation Team Lead as the hub scales.
+- Continuous training in Azure AI, Python, and workflow automation.
+
+WHY JOIN US
+- Be part of the first AI & Automation Hub for a top U.S. mortgage lender.
+- Work directly with U.S. executives and technical experts.
+- Build practical, real-world AI solutions that impact thousands of clients.
+- Dynamic, growth-oriented culture with strong career development.
+
+How To Apply
+Apply directly here by sharing your CV and filling out the application form.
+
+We look forward to meeting our next AI Expert!

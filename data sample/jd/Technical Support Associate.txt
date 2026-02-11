@@ -1,0 +1,66 @@
+About the job
+Who We Are:
+
+ Estarta is a leading provider of innovative solutions in the IT and software industry, dedicated to delivering exceptional service and support to clients worldwide. Our commitment to excellence drives us to continuously develop new products and services that empower professionals and enhance operational efficiency.
+
+
+
+Department Overview:
+
+ The Technical Support department at Estarta plays a crucial role in assisting customers by troubleshooting and providing information regarding our software solutions. Our team leverages Microsoft Windows and networking fundamentals to diagnose and resolve environmental issues that impact software performance and connectivity. Each customer case requires creative problem-solving, strong communication skills, and technical expertise. Collaboration across departments and effective escalation processes are key to ensuring customer satisfaction.
+
+
+
+Your Career Opportunity:
+
+ As a Technical Support Associate at Estarta, you will benefit from a structured career path designed to develop your skills in Microsoft Windows operating systems, local (TCP/IP) networking, Microsoft SQL Server, and software troubleshooting. This role is ideal for individuals seeking an entry point into IT practices and corporate software solutions. You will gain valuable communication and technical skills to advance your career in technology.
+
+
+
+Work Schedule:
+
+Days: Monday to Friday
+Shifts: Two shifts available, from 3:00 PM to 3:00 AM
+
+
+Areas of Accountability:
+
+ A Technical Support Associate is responsible for the following outcomes:
+
+
+
+Responsibilities:
+
+Assess client eligibility by comparing information to requirements.
+Answer phone calls from clients to identify and resolve technical issues affecting proprietary applications in Microsoft Windows and Apple iOS environments.
+Utilize active listening and empathy skills to support clients.
+Strive to meet or exceed call center metrics and service levels.
+Schedule and conduct follow-up calls with clients regarding ongoing technical issues.
+Resolve technical escalations from the support phone and chat team.
+Troubleshoot issues during database updates, new software installations, and server migrations.
+Track and monitor all client interactions using the Salesforce CRM system.
+Coordinate with peers to ensure proper coverage for all appointments.
+
+
+Qualifications:
+
+1–2 years of experience in a customer service/support role.
+1–2 years of computer application-based technical support or IT experience.
+Previous call center experience.
+Excellent verbal and written communication skills, with an emphasis on phone etiquette.
+Ability to work independently with minimal supervision.
+Detail-oriented with strong documentation skills.
+Working knowledge of Microsoft Windows administration tools.
+Basic understanding of Microsoft SQL Server.
+Basic understanding of network concepts, including NETBIOS over TCP/IP fundamentals.
+Knowledge of Apple iPad & Parallels is a plus.
+
+Requirements added by the job poster
+
+• Bachelor's Degree
+
+• 1+ years of experience in Information Technology
+
+• 1+ years of work experience with Microsoft SQL Server
+
+• 1+ years of experience in Customer Service

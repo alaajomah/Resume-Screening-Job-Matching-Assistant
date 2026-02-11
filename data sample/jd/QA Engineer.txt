@@ -1,0 +1,90 @@
+About the job
+About the Company: 
+
+
+
+Carseer was established in 2015 as the first company in the Middle East providing comprehensive vehicle history reports. Carseer report contains all information needed to assess any vehicle before purchasing it, such as accidents, vehicle photos, vehicle ownership/registration history and the usage information whether it was rental, taxi or personal. In addition, Carseer report contains the car evaluation, odometer readings, flood damage, salvage and junk information that are not easily detected by technical inspection. Carseer report data is collected from reliable global and local sources, including car agencies, insurance companies and maintenance centers. In addition to government sources and other trusted sources. 
+
+
+
+Job Summary: 
+
+
+
+As a Software QA Engineer, you will be responsible for ensuring the quality of our software products by designing and implementing test strategies, identifying bugs, and working closely with the development team to resolve issues. You will play a critical role in improving the reliability, usability, and performance of our applications, while also leveraging business acumen to understand the broader impact of quality on customer satisfaction, product success, and overall business objectives. 
+
+
+
+Key Responsibilities: 
+
+
+
+Develop comprehensive test plans based on product requirements and technical specifications. 
+
+
+
+Design and implement test strategies, including manual and automated testing, to ensure robust testing coverage. 
+
+
+
+Estimate, prioritize, and coordinate testing activities within the development lifecycle. 
+
+
+
+Create, document, and maintain detailed test cases. 
+
+
+
+Execute manual and automated test cases across different platforms. 
+
+
+
+Ensure test cases are aligned with functional and non-functional requirements, including performance and security. 
+
+
+
+Identify, document, and track software defects using issue-tracking systems 
+
+
+
+Reproduce reported bugs, perform root cause analysis, and work with developers to resolve issues. 
+
+
+
+Develop and maintain automated test scripts using Selenium and JMeter 
+
+
+
+Sign off applications release prior deployment to production. 
+
+
+
+Qualifications: 
+
+
+
+Bachelor's degree in Computer Science, Information Technology, Engineering, or related field. 
+
+
+
+Proven experience as a QA Engineer or in a similar role in software development. 
+
+
+
+Hands-on experience with both manual and automated testing. 
+
+
+
+Experience with Agile/Scrum development methodologies. 
+
+
+
+Strong knowledge of software QA methodologies, tools, and processes. 
+
+
+
+Proficiency in test automation and performance testing tools (Selenium and JMeter). 
+
+
+
+Hands-on experience writing SQL queries is a plus

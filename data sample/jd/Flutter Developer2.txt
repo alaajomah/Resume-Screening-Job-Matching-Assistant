@@ -1,0 +1,20 @@
+We are seeking a skilled Flutter Developer to join our team and contribute to building high-quality mobile applications. As a Flutter Developer, you will be responsible for developing cross-platform mobile apps using the Flutter framework, ensuring performance, usability, and code quality.
+
+Key Responsibilities:
+
+Collaborate with cross-functional teams to understand project requirements and objectives
+Develop and implement mobile applications using the Flutter framework
+Translate designs and wireframes into high-quality code
+Optimize app performance and ensure compatibility across various devices
+Troubleshoot and debug issues to maintain app stability
+Stay updated on Flutter and mobile development trends
+Communicate effectively with team members and stakeholders
+
+Requirements
+
+Proven experience as a Flutter Developer or similar role. (0 to 3 years of experience)
+Good understanding of Dart programming language and Flutter framework
+Understanding of mobile app design principles and UI/UX best practices
+Understanding with third-party libraries and APIs
+Good problem-solving and analytical skills
+Degree in Computer Science, Engineering, or related field (preferred)

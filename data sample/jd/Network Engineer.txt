@@ -1,0 +1,29 @@
+Job summary
+
+
+
+We’re looking for a motivated Network Engineer with 1–2 years of hands-on experience to join our team and support enterprise network monitoring and load-balancing environments.
+
+ 
+
+What you’ll work on:
+
+
+
+Implementing, configuring, and maintaining network monitoring solutions
+Monitoring routers, switches, firewalls, and servers
+Basic troubleshooting, alerts, and dashboards
+Supporting application availability and performance
+Perform basic troubleshooting of network issues and escalate complex problems when required.
+
+
+What we’re looking for:
+
+
+
+1–2 years of experience in networking or IT infrastructure
+Good understanding of TCP/IP, DNS, DHCP, VLANs
+Basic knowledge of SNMP, ICMP, Syslog
+Exposure to network monitoring tools (WUG, SolarWinds, PRTG, etc.)
+Interest in load balancing and application delivery
+Willingness to learn and grow

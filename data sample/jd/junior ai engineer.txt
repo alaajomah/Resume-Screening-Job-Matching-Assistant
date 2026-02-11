@@ -1,0 +1,43 @@
+Position Responsibilities
+
+As a Junior AI Engineer (1–2 years experience), you will contribute to designing, developing, and deploying AI-driven solutions. Your day-to-day work may include:
+
+ Building AI-powered applications using LLMs, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP)
+ Implementing capabilities such as function calling, agent orchestration, and tool integration
+ Benchmarking AI models using LLM-as-a-Judge, few-shot evaluation methods, and automated testing pipelines
+ Applying and experimenting with model optimization and quantization techniques
+ Containerizing and deploying applications using Docker and Docker Compose
+ Using Hugging Face Transformers for embeddings, tokenization, and text classification
+ Working with vector databases for semantic search and retrieval
+ Applying image processing and computer-vision techniques using OpenCV (segmentation, feature extraction, object detection)
+ Fine-tuning deep learning and machine learning models
+ Integrating applications with relational and non-relational databases (MariaDB, PostgreSQL, etc.)
+ Working with queuing and task orchestration frameworks for background processing
+
+Required Competencies
+
+Candidates with 1 to 2 years of hands-on experience in AI/ML engineering are preferred, with:
+
+ Strong proficiency in Python
+ Familiarity with PyTorch or TensorFlow
+ Good understanding of core ML/NLP concepts, including LLMs and RAG workflows
+ Experience working in Unix/Linux environments
+ Exposure to asynchronous frameworks (FastAPI, asyncio, etc.)
+ Comfort working with Docker and containerized environments
+ Practical experience with Git and version control
+
+Preferred Skills (Nice-to-Haves)
+
+These are not mandatory but will strengthen your application:
+
+ Understanding of quantization (GPTQ, AWQ, etc.)
+ Experience using Hugging Face Transformers for NLP tasks
+ Familiarity with vector databases like Qdrant or ChromaDB
+ Experience with computer vision and OpenCV
+ Exposure to databases (MariaDB, PostgreSQL, SQLite, etc.)
+ Familiarity with queuing systems (RabbitMQ, Redis Queue, etc.)
+ Understanding of MCP and agent orchestration tools (LangChain, LlamaIndex, Haystack, etc.)
+
+What Matters Most
+
+You don’t need to have mastered everything. We value curiosity, continuous learning, and a passion for building real AI products. If you are motivated, eager to experiment, and ready to grow in a hands-on environment, we encourage you to apply.

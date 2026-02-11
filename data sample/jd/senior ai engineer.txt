@@ -1,0 +1,24 @@
+﻿About the job
+🚀Senior AI Engineer – Join Presight in Jordan!
+
+Location: Jordan
+Experience: 5+ years
+
+Presight is expanding to Jordan, and we’re looking for a versatile Senior AI Engineer to power our next-generation AI-driven platforms. If you thrive at the intersection of data engineering and software development, and love leveraging cutting-edge AI coding tools like Cursor, Claude Code, OpenAI Codex, and Google Gemini, this is your chance to make an impact.
+
+What You’ll Do:
+- Build and optimize scalable data systems and software applications.
+- Design ETL/ELT pipelines, transform complex datasets, and ensure data quality.
+- Develop APIs, microservices, and integrations for AI platforms.
+- Accelerate development with AI-powered coding assistants.
+
+What We’re Looking For:
+- 5+ years of experience in data engineering and software development.
+- Strong skills in Python, Node.js, SQL, and cloud-native ecosystems.
+- Hands-on experience with Azure, Apache Spark, Kafka, and Airflow.
+- Familiarity with containerization (Docker/Kubernetes) and CI/CD is a plus.
+
+Why Presight?
+- A culture of innovation and inclusion.
+- High-impact projects with continuous growth opportunities.
+- Competitive rewards and benefits.
