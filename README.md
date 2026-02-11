@@ -107,13 +107,24 @@ https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr
 ### 1) Clone the repository
 ```bash
 git clone https://github.com/alaajomah/Resume-Screening-Job-Matching-Assistant.git   
-cd REPO_NAME
+cd Resume-Screening-Job-Matching-Assistant
+
 ### 2) Create and activate a virtual environment
 python -m venv .venv
+
 ### 3) Activate
 python -m venv .venv
 or from command prompt
 .\.venv\Scripts\activate.bat
+
 ### 4)Install dependencies
 pip install -r requirements.txt
+
+### 5) create .env and put inside it the open ai key
+OPENAI_API_KEY=open ai key
+
+### 6) Run the app
+streamlit run app.py
+
+
 
