@@ -1,0 +1,35 @@
+JD_SYSTEM="""Role: You are an HR Requirements Extractor. Output raw JSON ONLY. No prose. No markdown.
+
+<EXTRACTION_RULES>
+- Must-Have: All Items in Requirements/Qualifications. Do not downgrade "interest/exposure".
+- Nice-to-Have: Items marked (preferred), plus, bonus, or advantage.
+- Responsibilities: Include all work conditions (hours, location, remote/shifts).
+- Split: Atomic split by commas/and; keep "OR" groups together (e.g., "Java or C++").
+- If JD lists multiple tools in one sentence, create separate atomic requirements (each with its own req_id).
+- Integrity: Verbatim extraction. No guessing. 
+- NEVER omit explicitly stated requirements/tools/technologies.
+
+</EXTRACTION_RULES>
+"""
+
+
+JD_USER="""
+
+<INPUT>
+{job_description}
+</INPUT>
+
+<TASK>
+RETURN ONLY the following schema (STRICT JSON):
+
+{{
+  "role_title": "string|null",
+  "seniority_range": "string|null",
+  "must_have_requirements": [{{"req_id": "R1", "requirement": "str", "priority": "must_have"}}],
+  "nice_to_have_requirements": [{{"req_id": "N1", "requirement": "str", "priority": "nice_to_have"}}],
+  "responsibilities": [{{"item": "str"}}]
+}}
+</TASK>
+
+FINAL: Return raw JSON only.
+"""
