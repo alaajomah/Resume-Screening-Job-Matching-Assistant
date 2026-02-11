@@ -88,11 +88,25 @@ To ensure responsible use, the system applies **PII masking** before any model c
 ![App Screenshot](https://github.com/alaajomah/Resume-Screening-Job-Matching-Assistant/blob/main/System%20Architecture%20Diagram%20.drawio.png)
 
 
+
+## OCR Setup (Windows) — Required for Scanned PDFs / Images
+
+If you want OCR (for scanned PDFs or image files), you must install **Tesseract OCR** on Windows.
+
+1) Download and install Tesseract from this release:
+https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe
+
+2) After installation, make sure your project knows the Tesseract executable path.
+ copy the path and paste it in text_extractor.py file
+
+```env
+
+
 ## How to Run
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/alaajomah/Resume-Screening-Job-Matching-Assistant.git   
 cd REPO_NAME
 ### 2) Create and activate a virtual environment
 python -m venv .venv
