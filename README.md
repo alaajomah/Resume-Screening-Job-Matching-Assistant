@@ -1,5 +1,5 @@
-# Resume-Screening-Job-Matching-Assistant
-## Scenario Chosen
+# Resume Screening & Job Matching Assistant
+## Scenario 
 
 This project delivers an **AI Resume Screening & Job Matching Assistant** that supports early-stage hiring decisions by converting unstructured hiring documents into **evidence-backed, structured outputs**. Recruiters upload a candidate CV and a Job Description (JD) in common formats (PDF/DOCX/TXT/PNG/JPG/JPEG). The system then executes three coordinated stages:
 
