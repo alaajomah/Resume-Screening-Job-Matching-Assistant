@@ -1,7 +1,7 @@
 import pytesseract
 
 # Path to the local Tesseract executable (Windows)
-pytesseract.pytesseract.tesseract_cmd = r"C:\Users\MCC\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"paste the path of tesseract.exe"
 
 from pathlib import Path
 import fitz  # PyMuPDF (PDF reading + rendering pages to images)
