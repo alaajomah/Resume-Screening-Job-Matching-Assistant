@@ -86,3 +86,20 @@ To ensure responsible use, the system applies **PII masking** before any model c
    Current: session + batch summary table; extendable to persistent logs and offline metrics.
 
 ![App Screenshot](https://github.com/alaajomah/Resume-Screening-Job-Matching-Assistant/blob/main/System%20Architecture%20Diagram%20.drawio.png)
+
+
+## How to Run
+
+### 1) Clone the repository
+```bash
+git clone https://github.com/USERNAME/REPO_NAME.git
+cd REPO_NAME
+### 2) Create and activate a virtual environment
+python -m venv .venv
+### 3) Activate
+python -m venv .venv
+or from command prompt
+.\.venv\Scripts\activate.bat
+### 4)Install dependencies
+pip install -r requirements.txt
+
