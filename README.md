@@ -128,3 +128,19 @@ streamlit run app.py
 
 
 
+Resume-Screening-Job-Matching-Assistant/
+├─ app.py
+├─ src/
+│ ├─ _init_.py
+│ ├─ text_extractor.py
+│ ├─ text_classifier.py
+│ ├─ mask_pii.py
+│ ├─ prompt_injection_detector.py
+│ ├─ llm.py
+│ └─ prompts/
+│ ├─ cv_extractor_prompt.txt
+│ ├─ jd_extractor_prompt.txt
+│ └─ match_prompt.txt
+├─ requirements.txt
+├─ .env
+└─ README.md
